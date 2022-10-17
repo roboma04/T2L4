@@ -5,4 +5,5 @@ Soluciones de los ejercicios de T2L4:
 2.-
     A. 
     B. mkdir empate.txt valencia.txt levante.txt
+    C. cat derbi.txt >> empate.txt
 
