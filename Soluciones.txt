@@ -1,0 +1,4 @@
+Soluciones de los ejercicios de T2L4:
+
+1.- ls –l | awk ‘{print $9”:”$5}’
+
